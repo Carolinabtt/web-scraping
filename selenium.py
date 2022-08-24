@@ -1,4 +1,4 @@
-#para cargar la pagina antes de leer el contenido
+# para cargar la pagina antes de leer el contenido
 # %% codecell
 import requests
 from selenium import webdriver
